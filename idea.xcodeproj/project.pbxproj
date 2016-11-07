@@ -12,6 +12,7 @@
 		3EA9D2681DC3BBE700D0A651 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EA9D2661DC3BBE700D0A651 /* Main.storyboard */; };
 		3EA9D26A1DC3BBE700D0A651 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EA9D2691DC3BBE700D0A651 /* Assets.xcassets */; };
 		3EA9D26D1DC3BBE700D0A651 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EA9D26B1DC3BBE700D0A651 /* LaunchScreen.storyboard */; };
+		3EA9D2751DC3C4F100D0A651 /* Barcode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA9D2741DC3C4F100D0A651 /* Barcode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3EA9D2691DC3BBE700D0A651 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EA9D26C1DC3BBE700D0A651 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3EA9D26E1DC3BBE700D0A651 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3EA9D2741DC3C4F100D0A651 /* Barcode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Barcode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				3EA9D2621DC3BBE700D0A651 /* AppDelegate.swift */,
 				3EA9D2641DC3BBE700D0A651 /* ViewController.swift */,
 				3EA9D2661DC3BBE700D0A651 /* Main.storyboard */,
+				3EA9D2741DC3C4F100D0A651 /* Barcode.swift */,
 				3EA9D2691DC3BBE700D0A651 /* Assets.xcassets */,
 				3EA9D26B1DC3BBE700D0A651 /* LaunchScreen.storyboard */,
 				3EA9D26E1DC3BBE700D0A651 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				3EA9D2651DC3BBE700D0A651 /* ViewController.swift in Sources */,
 				3EA9D2631DC3BBE700D0A651 /* AppDelegate.swift in Sources */,
+				3EA9D2751DC3C4F100D0A651 /* Barcode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
